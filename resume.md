@@ -1,12 +1,12 @@
 # GitHub Teacher
 
-_Charting the knowledge of the Internet, just like Galileo charted the stars._
+__Charting the knowledge of the Internet, just like Galileo charted the stars.__
 
 ## Experience
 
 ### GitHub Trainer
 
-Teach all things *Git*, give away all the stickers, ensure world peace.
+Teach all things __Git__, give away all the stickers, ensure world peace.
 
 <!--
   Note here: Learners -- yup, you found the error!
@@ -15,7 +15,7 @@ Teach all things *Git*, give away all the stickers, ensure world peace.
 
 ### Supportocat
 
-Provide _world class support_ to customers on the GitHub platform
+Provide __world class support__ to customers on the GitHub platform
 
 ## Skills
 
